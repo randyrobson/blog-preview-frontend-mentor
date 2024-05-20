@@ -25,7 +25,7 @@ O desafio consistia em construir um cartão de visualizção de um blog. Os usu�
 
 ### Imagens
 
-<img src="design/preview.jpg">
+<img src="design/preview.gif">
 
 
 ### Links
